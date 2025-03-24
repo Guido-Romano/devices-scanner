@@ -33,7 +33,7 @@ This script scans devices on an internal network. It is designed to be versatile
     sudo apt-get install python3 python3-pip
     ```
 
-    ### Arch-based distributions (e.g., Arch, Manjaro)
+    ### Arch-based distributions (e.g., Arch Linux, BlackArch)
     ```bash
     sudo pacman -Syu
     sudo pacman -S python python-pip
