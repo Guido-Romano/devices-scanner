@@ -1,30 +1,26 @@
-
-# MIT License
+# Licencia MIT
 
 **Copyright (c) 2025 Guido Romano.**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Se otorga permiso, de forma gratuita, a cualquier persona que obtenga una copia
+de este software y los archivos de documentación asociados (el "Software"), para 
+utilizar el Software sin restricciones, incluyendo sin limitación los derechos 
+de usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o 
+vender copias del Software, y permitir a las personas a quienes se les proporcione 
+el Software hacerlo, sujeto a las siguientes condiciones:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas 
+las copias o partes sustanciales del Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. THE USER ASSUMES ALL RESPONSIBILITY AND RISK IN USING THE SOFTWARE 
-AND HOLDS THE AUTHORS OR COPYRIGHT HOLDERS HARMLESS FROM ANY LEGAL LIABILITY 
-RESULTING FROM THE USE OR MISUSE OF THE SOFTWARE. BY DOWNLOADING THE SOFTWARE, 
-YOU AGREE THAT YOU HAVE READ AND ARE AWARE OF ALL TERMS AND CONDITIONS SET FORTH
- IN THIS LICENSE, AND THAT THE AUTHORS ARE NOT RESPONSIBLE FOR ANY USE OR 
- DAMAGES RESULTING FROM THE SOFTWARE.
-
-
-
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O 
+IMPLÍCITA, INCLUYENDO PERO NO LIMITADO A GARANTÍAS DE COMERCIABILIDAD, 
+IDONEIDAD PARA UN PROPÓSITO PARTICULAR E INEXISTENCIA DE INFRACCIONES. EN 
+NINGÚN CASO LOS AUTORES O LOS TITULARES DEL COPYRIGHT SERÁN RESPONSABLES POR 
+NINGÚN RECLAMO, DAÑO U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, 
+CIVIL O DE OTRO TIPO, QUE SURJA DE O EN RELACIÓN CON EL SOFTWARE O EL USO U 
+OTRAS OPERACIONES EN EL SOFTWARE. EL USUARIO ASUME TODA LA RESPONSABILIDAD Y 
+EL RIESGO EN EL USO DEL SOFTWARE Y LIBERA A LOS AUTORES O LOS TITULARES DEL 
+COPYRIGHT DE CUALQUIER RESPONSABILIDAD LEGAL DERIVADA DEL USO O MAL USO DEL 
+SOFTWARE. AL DESCARGAR EL SOFTWARE, USTED ACEPTA QUE HA LEÍDO Y ES CONSCIENTE 
+DE TODOS LOS TÉRMINOS Y CONDICIONES ESTABLECIDOS EN ESTA LICENCIA, Y QUE LOS 
+AUTORES NO SON RESPONSABLES POR NINGÚN USO O DAÑO RESULTANTE DEL SOFTWARE.
